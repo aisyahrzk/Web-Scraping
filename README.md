@@ -1,3 +1,7 @@
 # Web-Scraping
 
-First web scraping coding which is scraping information about auction cars on ngchanmau cars auction website for my mom's work
+small web scraping projecs 
+
+1. scraping a car auction website ngchanmau
+
+2. scraping meme images from reddit and know your memes page
