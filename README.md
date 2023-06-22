@@ -2,7 +2,7 @@
 
 A list of Web Scraping Projects I did on multiple websites
 
-| Project | Description |
+| Project | Scra-ped Data |
 |---|---|
 | [Shopee](https://github.com/aisyahrzk/web-scraping-projects/blob/main/shopeescraper.ipynb) | product title, product description, product image, reviews |
 | [Car Auction Website](https://github.com/aisyahrzk/web-scraping-projects/blob/main/lelong%20(1).ipynb) | car model, auction date, year, registration number | 
